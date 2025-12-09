@@ -226,8 +226,9 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 # 📜 License
 
-MIT License © 2025 Varsha S
+MIT License © 2025 Ravikiran C
 
 
 
 Just tell me **"add badges"**, **"add diagrams"**, or **"generate screenshots"**.
+
